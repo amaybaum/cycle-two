@@ -1,1 +1,1 @@
-require("cycle-three");
+require("@amaybaum/cycle-three");
