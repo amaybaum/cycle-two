@@ -1,6 +1,6 @@
 {
   "name": "@amaybaum/cycle-two",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/amaybaum/cycle-two#readme",
   "dependencies": {
-    "@amaybaum/cycle-three": "1.0.0"
+    "@amaybaum/cycle-three": "1.0.1"
   }
 }
